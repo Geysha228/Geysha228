@@ -8,7 +8,7 @@
 ## 🚀 Мой текущий стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,git,linux,vscode,csharp" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgres,git,linux,vscode,windows" alt="Tech stack icons" />
 </p>
 
 - 🐹 **Go** — основной язык программирования, люблю его простоту и мощь  
