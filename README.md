@@ -28,11 +28,7 @@
     <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ваш-профиль" target="_blank" rel="noopener">
-    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/ваш_телеграм" target="_blank" rel="noopener">
+  <a href="https://t.me/Geysha228" target="_blank" rel="noopener">
     <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" />
   </a>
 </p>
